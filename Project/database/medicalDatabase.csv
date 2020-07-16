@@ -1,0 +1,9 @@
+ID,PatientName,Symptoms,Diseases
+123,Udit,cough fever,CommonCold
+456,Mann,sweating chest-pain,Tuberculosis
+789,Tanishqua,tiredness dry-cough,Covid-19
+456,Tushar,cough fever,CommonCold
+98,cid,cough fever,CommonCold
+"576","vaishali","cough fever","CommonCold"
+"321","akansha","cough fever","CommonCold"
+"986","cid","fever",""

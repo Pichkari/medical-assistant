@@ -1,0 +1,80 @@
+medicalDatabase.csv
+0          1
+medical     csv
+
+CommonCold fever cough 
+
+Function 2 parts
+1 Definition
+2 Calling
+
+Definition ki identification
+
+op               man         man           op
+AccessSpecifier ReturnType FunctionName (arg1){
+
+Some line of code
+WORK
+
+}
+
+
+Calling   {Depends on FunctionDefinition}
+
+String reciever = getId();
+ArrayList<String> sym = getSymptom(); 
+emptyFilename("medicalDatabase.csv");
+
+ReturnType varName = FunctionName(arg);
+
+
+
+
+
+Constructor
+
+Initializes the class Data members!
+
+2 Types
+i) Default Constructor
+ii) Parametrised Constructor
+
+
+Unique Stuff abt constructor
+
+1= No REturn Type
+2= Name is same as ClassName
+3=  if user doesnt provide , COMPILER PROVIDES but only DEFEAULT
+
+4= if we provide dono mai se koi bi 
+toh no matter what compiler wont interfere
+
+
+Diff b/w Default and Parametrised
+
+ClassName(){}   -- Default Constructor
+ClassName(arg1,arg2)  -- Parametrized Constructor
+
+CONSTRUCTOR OVERLOADING
+
+ClassName(arg1){is=arg1;}
+ClassNAme(arg1 , arg2){id=arg1; name=arg2;}
+ClassName(arg1,arg2,arg3){id=arg1; name=arg2, syumptom=arg3;}
+
+
+Super();
+Fires Theconstructor of the parent class
+
+super(s);
+Fires The Parametrized constructor of the parent class
+
+
+
+
+
+
+
+
+
+
+                
